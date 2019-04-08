@@ -21,5 +21,7 @@ Para executar o script:
 Entrar na pasta raiz do projeto pelo terminal;
 
 Executar o comando "cucumber" para executar todas as features
+
 Executar o comando "cucumber -t @success" para executar o teste de login com sucesso
+
 Executar o comando "cucumber -t @error" para executar o teste de login inválido
